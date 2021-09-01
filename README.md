@@ -1,6 +1,6 @@
 # iJUG Open Source Stipendium
 
-Das **Open Source Stipendium** des iJUG fördert Open Source Projekte im Java-Bereich durch Anwerbung und Unterstützung von Projektmitgliedern.
+Das **Open Source Stipendium** des [iJUG](https://www.ijug.eu/de/home/) fördert Open Source Projekte im Java-Bereich durch Anwerbung und Unterstützung von Projektmitgliedern.
 
 Hierzu werben wir Stipendiaten, Mentoren und Sponsoren ein und bringen diese miteinander in Kontakt, sodass die Mentoren den Stipendiaten dabei helfen, bestimmte Ziele (s. u.) im jeweiligen Open Source Projekt zu erreichen, und die Sponsoren den Stipendiaten bestimmte Leistungen schenken, die sie bei Ihrem Einsatz für das Open Source Projekt unterstützen.
 
@@ -16,9 +16,9 @@ Zukünftig steht das Förderprogramm auch für weitere Ziele offen, über die wi
 
 Wir haben uns dazu entschieden, initial die folgenden Projekte zu unterstützen:
 
-* Jakarta EE
-* Microprofile
-* Adoptium 
+* [Jakarta EE](https://jakarta.ee)
+* [Microprofile](https://microprofile.io)
+* [Adoptium](https://adoptium.net)
 
 Zukünftig steht das Förderprogramm auch weiteren Projekten offen und werden die aktuellen Förderziele regelmäßig neu am Bedarf des Java-Universums ausgerichtet.
 
@@ -42,7 +42,7 @@ Du möchtest einem Stipendiaten helfen, das gesteckte Ziel zu erreichen? Wir fre
 
 Derzeit werden jedem Stipendiaten von den Sponsoren des Open Source Stipendiums folgende Vorteile gewährt:
 
-* JavaLand GmbH - Eintrittskarte zur JavaLand-Konferenz
+* JavaLand GmbH - Eintrittskarte zur [JavaLand-Konferenz](https://www.javaland.eu/de/home/)
 * iJUG e. V. - Präsentation der eigenen Contributions im Rahmen einer Community-Aktivität im JavaLand gemeinsam mit dem Mentor
 
 Du möchtest persönlich oder mit Deinem Unternehmen unsere Stipendaten unterstützen, beispielsweise durch einen gewissen Geldbetrag, kostenfreie Leistungen oder Sachspenden? Dann melde Dich bitte kurz per Mail an stipendium at ijug punkt eu!
