@@ -54,6 +54,6 @@ Entsprechend des Open-Source-Gedankens arbeitet das iJUG Stipendium mit den glei
 
 Entsprechend dem Meriokratie-Gedanken der Open-Source-Bewebung liegt die Entscheidungsgewalt in diesem Projekt bei den Committern, welche ihren Status, unter Anerkennung Ihrer bisherigen Leistungen für dieses Projekt, durch Mehrheitsbeschluss der bisherigen Committer erhalten haben.
 
-Aktueller Projektleiter ist Markus Karg (ernannt durch die Mitgliederversammlung des iJUG).
+Aktueller Projektleiter ist [Markus Karg](https://github.com/mkarg) (ernannt durch die Mitgliederversammlung des iJUG).
 
-Aktuelle Committer sind Markus Karg und Hendrik Ebbers (ernannt durch den Projektleiter).
+Aktuelle Committer sind [Markus Karg](https://github.com/mkarg) und [Hendrik Ebbers](https://github.com/hendrikebbers) (ernannt durch den Projektleiter).
