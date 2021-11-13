@@ -25,7 +25,11 @@ Zukünftig steht das Förderprogramm auch weiteren Projekten offen und werden di
 
 ## Stipendiaten
 
-Aktuell haben wir uns noch nicht für einen bestimmten Stipendiaten entschieden. Bitte bewerbe Dich über stipendium at ijug punkt eu für ein Stipendium! Neben der Erreichung des aktuellen Förderziels (Du wirst als Committer in einem der genannten Projekte vorgeschlagen) winkt Dir wertvolle, persönliche Beratung durch erfahrene Mentoren aus den jeweiligen Projekten, sowie die von den Sponsoren (s. u.) gewährten Vorteile. Zum Stipendium berechtigt sind derzeit alle Personen, die mehrfach Contributions zu einem der genannten Projekte beigesteuert haben. Zum Nachweis genügen uns die Links zu drei Commits, die Du beigesteuert hast. Das Stipendium ist für einen Zeitraum von einem Jahr ausgelegt und wir erwarten, dass Du ernsthaft (mehrere Stunden in der Woche) an dem Projekt mitarbeitest und den Ratschläge der Mentoren folgst.
+Aktuell haben wir uns noch nicht für einen bestimmten Stipendiaten in jedem von uns geförderten Bereich entschieden. Bitte bewerbe Dich über stipendium at ijug punkt eu für ein Stipendium! Neben der Erreichung des aktuellen Förderziels (Du wirst als Committer in einem der genannten Projekte vorgeschlagen) winkt Dir wertvolle, persönliche Beratung durch erfahrene Mentoren aus den jeweiligen Projekten, sowie die von den Sponsoren (s. u.) gewährten Vorteile. Zum Stipendium berechtigt sind derzeit alle Personen, die mehrfach Contributions zu einem der genannten Projekte beigesteuert haben. Zum Nachweis genügen uns die Links zu drei Commits, die Du beigesteuert hast. Das Stipendium ist für einen Zeitraum von einem Jahr ausgelegt und wir erwarten, dass Du ernsthaft (mehrere Stunden in der Woche) an dem Projekt mitarbeitest und den Ratschläge der Mentoren folgst.
+
+* Jakarta EE: Jeremias Weber (@jelemux) (Mentor: Markus Karg)
+* Adoptium: (offen)
+* Microprofile: (offen)
 
 
 ## Mentoren
