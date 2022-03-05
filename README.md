@@ -49,6 +49,7 @@ Derzeit werden jedem Stipendiaten von den Sponsoren des Open Source Stipendiums 
 * JavaLand GmbH - Eintrittskarte zur [JavaLand-Konferenz](https://www.javaland.eu/de/home/)
 * iJUG e. V. - Präsentation der eigenen Contributions im Rahmen einer Community-Aktivität im JavaLand gemeinsam mit dem Mentor
 * JUG Deutschland e. V. - Eintrittskarte zum [Java Forum Nord](https://javaforumnord.de/)
+* Eclipse Foundation AISBL - Swag
 
 Du möchtest persönlich oder mit Deinem Unternehmen unsere Stipendaten unterstützen, beispielsweise durch einen gewissen Geldbetrag, kostenfreie Leistungen oder Sachspenden? Dann melde Dich bitte kurz per Mail an stipendium at ijug punkt eu!
 
